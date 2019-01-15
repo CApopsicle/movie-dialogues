@@ -22,3 +22,6 @@ Using overview and then detail, our visualization will highlight these movie cha
 
 ## Libraries and Tools
 [https://d3-legend.susielu.com](https://d3-legend.susielu.com), Bootstrap, Adobe Typekit, [LIWC](https://d3-legend.susielu.com), [TextBlob](https://d3-legend.susielu.com), [Genderizer](https://github.com/muatik/genderizer), [Linear gradient example](https://github.com/muatik/genderizer)
+
+## Dataset
+Our visualization is based on the dataset found [here](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html), distributed along with the paper [Chameleons in Imagined Conversations: A New Approach to Understanding Coordination of Linguistic Style in Dialogs](https://www.cs.cornell.edu/~cristian/Chameleons_in_imagined_conversations.html), by Cristian Danescu-Niculescu-Mizil and Lillian Lee.
